@@ -1,2 +1,2 @@
-# semana_data_science
+# Semana Data Science
 Repositório para o curso da semana de data science. 
